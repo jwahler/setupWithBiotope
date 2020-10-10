@@ -1,0 +1,12 @@
+{
+    "entries":[
+       {
+          "name":"name 1",
+          "link":"http://apple.com"
+       },
+       {
+          "name":"name 2",
+          "link":"http://microsoft.com"
+       }
+    ]
+ }
